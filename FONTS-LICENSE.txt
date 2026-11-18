@@ -1,0 +1,4 @@
+Inter — Copyright 2016-2023 The Inter Project Authors (https://github.com/rsms/inter)
+Licencia: SIL Open Font License 1.1 (https://openfontlicense.org)
+Los archivos en app/src/main/res/font son un subconjunto latino de Inter / Inter Display
+(sin modificar los glifos), incluidos para reducir el peso de la app.
